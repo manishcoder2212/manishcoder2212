@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishcoder2212
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning java,html,reactnative,python language
+- 🌱 I’m currently learning java,html,jsx,python languages
 - 
 
 <!---
